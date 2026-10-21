@@ -86,8 +86,8 @@ Hyperparameter yang di-tuning: `n_estimators`, `max_depth`, `min_samples_split`.
 1. Clone repository dan install dependensi:
 
    ```bash
-   git clone https://github.com/<username>/<nama-repo>.git
-   cd <nama-repo>
+   git clone github.com/alesandroyoel/Bank-transaction-clustering-classification.git
+   cd Bank-transaction-clustering-classification
    pip install pandas numpy matplotlib seaborn scikit-learn yellowbrick joblib jupyter
    ```
 
